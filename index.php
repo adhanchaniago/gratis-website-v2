@@ -11,7 +11,7 @@
    <!-- This site is optimized with the Yoast SEO plugin v11.8 - https://yoast.com/wordpress/plugins/seo/ -->
    <meta name="description"
       content="At Gratis Digital World, we are a digital marketing agency who love partnering with smart and determined business to help them achieve online success." />
-   <link rel="canonical" href="index.html" />
+   <link rel="canonical" href="index.php" />
    <meta property="og:locale" content="en_GB" />
    <meta property="og:locale:alternate" content="de_DE" />
    <meta property="og:locale:alternate" content="es_ES" />
@@ -33,9 +33,9 @@
    <link rel='dns-prefetch' href='https://maxcdn.bootstrapcdn.com/' />
    <link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
    <link rel='dns-prefetch' href='https://s.w.org/' />
-   <link rel="alternate" type="application/rss+xml" title="Gratis Digital World &raquo; Feed" href="feed/index.html" />
-   <link rel="alternate" type="application/rss+xml" title="Gratis Digital World &raquo; Comments Feed"
-      href="comments/feed/index.html" />
+   <!-- <link rel="alternate" type="application/rss+xml" title="Gratis Digital World &raquo; Feed" href="feed/index.html" /> -->
+   <!-- <link rel="alternate" type="application/rss+xml" title="Gratis Digital World &raquo; Comments Feed" -->
+      <!-- href="comments/feed/index.html" /> -->
    <script type="text/javascript">
       window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/gratisdigital.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3" } };
       !function (e, a, t) { var r, n, o, i, p = a.createElement("canvas"), s = p.getContext && p.getContext("2d"); function c(e, t) { var a = String.fromCharCode; s.clearRect(0, 0, p.width, p.height), s.fillText(a.apply(this, e), 0, 0); var r = p.toDataURL(); return s.clearRect(0, 0, p.width, p.height), s.fillText(a.apply(this, t), 0, 0), r === p.toDataURL() } function l(e) { if (!s || !s.fillText) return !1; switch (s.textBaseline = "top", s.font = "600 32px Arial", e) { case "flag": return !c([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) && (!c([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) && !c([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447])); case "emoji": return !c([55357, 56424, 55356, 57342, 8205, 55358, 56605, 8205, 55357, 56424, 55356, 57340], [55357, 56424, 55356, 57342, 8203, 55358, 56605, 8203, 55357, 56424, 55356, 57340]) }return !1 } function d(e) { var t = a.createElement("script"); t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t) } for (i = Array("flag", "emoji"), t.supports = { everything: !0, everythingExceptFlag: !0 }, o = 0; o < i.length; o++)t.supports[i[o]] = l(i[o]), t.supports.everything = t.supports.everything && t.supports[i[o]], "flag" !== i[o] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[i[o]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function () { t.DOMReady = !0 }, t.supports.everything || (n = function () { t.readyCallback() }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function () { "complete" === a.readyState && t.readyCallback() })), (r = t.source || {}).concatemoji ? d(r.concatemoji) : r.wpemoji && r.twemoji && (d(r.twemoji), d(r.wpemoji))) }(window, document, window._wpemojiSettings);
@@ -166,7 +166,7 @@
    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
    <meta name="generator" content="WordPress 5.3" />
    <meta name="generator" content="WooCommerce 3.6.5" />
-   <link rel='shortlink' href='index.html' />
+   <link rel='shortlink' href='index.php' />
    <link rel="alternate" type="application/json+oembed"
       href="wp-json/oembed/1.0/embed@url=https%253A%252F%252Fgratisdigital.com%252F" />
    <link rel="alternate" type="text/xml+oembed"
@@ -174,10 +174,7 @@
 
 
    <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
-   <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://gratisdigital.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
-   <link rel="alternate" href="index.html" hreflang="en" />
-   <link rel="alternate" href="de/index.html" hreflang="de" />
-   <link rel="alternate" href="es/index.html" hreflang="es" />
+   <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
    <meta name="generator"
       content="Powered by Slider Revolution 5.4.8.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
    <link rel="icon" href="wp-content/uploads/2019/08/cropped-output-onlinepngtools-2-32x32.png" sizes="32x32" />
@@ -185,7 +182,7 @@
    <link rel="apple-touch-icon-precomposed"
       href="wp-content/uploads/2019/08/cropped-output-onlinepngtools-2-180x180.png" />
    <meta name="msapplication-TileImage"
-      content="https://gratisdigital.com/wp-content/uploads/2019/08/cropped-output-onlinepngtools-2-270x270.png" />
+      content="wp-content/uploads/2019/08/cropped-output-onlinepngtools-2-270x270.png" />
 
    <script type="text/javascript">function setREVStartSize(e) {
          try {
@@ -219,7 +216,7 @@
       </button>
       <div class="widget widget_search">
 
-         <form role="search" method="get" class="search-form form-inline" action="index.html">
+         <form role="search" method="get" class="search-form form-inline" action="index.php">
             <div class="form-group">
                <label>
                   <input type="search" class="search-field form-control" placeholder="Search" value="" name="s"
@@ -248,7 +245,7 @@
                   <div class="row">
                      <div class="col-sm-12 display_table">
                         <div class="header_left_logo display_table_cell">
-                           <a href="index.html" rel="home" class="logo logo_image_and_text">
+                           <a href="index.php" rel="home" class="logo logo_image_and_text">
                               <img src="wp-content/uploads/2019/08/image.png"
                                  alt="&lt;span&gt;Gratis&lt;/span&gt;digital ">
                               <span class="logo_text">
@@ -259,7 +256,7 @@
                               <ul id="menu-main-menu" class="sf-menu nav-menu nav">
                                  <li id="menu-item-126"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-126">
-                                    <a href="index.html">HOME</a></li>
+                                    <a href="index.php">HOME</a></li>
                                  <li id="menu-item-7882"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7882">
                                     <a href="services.php">Services</a>
@@ -269,24 +266,24 @@
                                           <a href="ecommerce.php">E-Commerce</a></li>
                                        <li id="menu-item-7953"
                                           class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7953">
-                                          <a href="affiliate_marketing.php">Affiliate Marketing</a></li>
+                                          <a href="affiliate-marketing.php">Affiliate Marketing</a></li>
                                        <li id="menu-item-7956"
                                           class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7956">
-                                          <a href="affiliate_mgt.php">Affiliate Program Management</a></li>
+                                          <a href="affiliate-management.php">Affiliate Program Management</a></li>
                                        <li id="menu-item-7955"
                                           class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7955">
-                                          <a href="lead.php">Lead Generation</a></li>
+                                          <a href="lead-generation.php">Lead Generation</a></li>
                                     </ul>
                                  </li>
                                  <li id="menu-item-8319"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8319"><a
-                                       href="about.php">About</a></li>
+                                       href="about-us.php">About</a></li>
                                  <li id="menu-item-8085"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8085"><a
                                        href="#">Blog</a></li>
                                  <li id="menu-item-8357"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8357"><a
-                                       href="contact.php">Contact Us</a></li>
+                                       href="contact-us.php">Contact Us</a></li>
                               </ul>
                            </nav>
                            <span class="toggle_menu"><span></span></span>
@@ -469,7 +466,7 @@
                                     E-Commerce </div>
 
                                  <!-- LAYER NR. 10 -->
-                                 <a class="tp-caption   tp-resizeme  floating" href="index.html#info" target="_self"
+                                 <a class="tp-caption   tp-resizeme  floating" href="index.php#info" target="_self"
                                     id="slide-2-layer-15" data-x="['center','center','center','center']"
                                     data-hoffset="['0','0','0','0']" data-y="['top','bottom','bottom','bottom']"
                                     data-voffset="['934','40','40','30']" data-width="none" data-height="none"
@@ -571,7 +568,7 @@
                                     Get Started </div>
 
                                  <!-- LAYER NR. 16 -->
-                                 <a class="tp-caption   tp-resizeme  floating" href="index.html#info" target="_self"
+                                 <a class="tp-caption   tp-resizeme  floating" href="index.php#info" target="_self"
                                     id="slide-3-layer-15" data-x="['center','center','center','center']"
                                     data-hoffset="['1','0','0','0']" data-y="['top','bottom','bottom','bottom']"
                                     data-voffset="['910','40','40','30']" data-width="none" data-height="none"
@@ -672,7 +669,7 @@
                                     Get Started </div>
 
                                  <!-- LAYER NR. 22 -->
-                                 <a class="tp-caption   tp-resizeme  floating" href="index.html#info" target="_self"
+                                 <a class="tp-caption   tp-resizeme  floating" href="index.php#info" target="_self"
                                     id="slide-4-layer-15" data-x="['center','center','center','center']"
                                     data-hoffset="['0','0','0','0']" data-y="['top','bottom','bottom','bottom']"
                                     data-voffset="['910','40','40','30']" data-width="none" data-height="none"
@@ -901,7 +898,7 @@
                         <div class="img-wrap"><img src="wp-content/uploads/2018/04/vertical_line.png"
                               alt="//gratisdigital.com/wp-content/uploads/2018/04/vertical_line.png" /></div>
                         <div class="fw-divider-space " style="margin-top: 40px;"></div>
-                        <a href="index.html#" target="_self"
+                        <a href="index.php#" target="_self"
                            class="wide_button theme_button inverse color1 large_height">
                            Get Started</a>
 
@@ -917,11 +914,11 @@
                               <div class="isotope-item col-lg-3 col-md-3 col-sm-6 col-xs-12 our-services-2 ">
                                  <div
                                     class="service_item vertical-item content-padding text-center overflow-hidden loop-2">
-                                    <a class="permalink" href="affiliate_mgt.php">
+                                    <a class="permalink" href="affiliate-management.php">
                                        <img src="wp-content/uploads/2018/06/service-icon-2.png" alt=""> </a>
                                     <div class="item-content">
                                        <h4 class="entry-title">
-                                          <a href="affiliate_mgt.php">
+                                          <a href="affiliate-management.php">
                                              Affiliate Program Management </a>
                                        </h4>
                                        <div class="excerpt">
@@ -934,11 +931,11 @@
                               <div class="isotope-item col-lg-3 col-md-3 col-sm-6 col-xs-12 our-services-2 ">
                                  <div
                                     class="service_item vertical-item content-padding text-center overflow-hidden loop-2">
-                                    <a class="permalink" href="affiliate_marketing.php">
+                                    <a class="permalink" href="affiliate-marketing.php">
                                        <img src="wp-content/uploads/2018/06/service-icon-4.png" alt=""> </a>
                                     <div class="item-content">
                                        <h4 class="entry-title">
-                                          <a href="affiliate_marketing.php">
+                                          <a href="affiliate-marketing.php">
                                              Affiliate Marketing </a>
                                        </h4>
                                        <div class="excerpt">
@@ -968,11 +965,11 @@
                               <div class="isotope-item col-lg-3 col-md-3 col-sm-6 col-xs-12 our-services ">
                                  <div
                                     class="service_item vertical-item content-padding text-center overflow-hidden loop-2">
-                                    <a class="permalink" href="lead.php">
+                                    <a class="permalink" href="lead-generation.php">
                                        <img src="wp-content/uploads/2018/03/service_icon_6-1.png" alt=""> </a>
                                     <div class="item-content">
                                        <h4 class="entry-title">
-                                          <a href="lead.php">
+                                          <a href="lead-generation.php">
                                              Lead Generation </a>
                                        </h4>
                                        <div class="excerpt">
@@ -1066,7 +1063,7 @@
                      <div id="column-0026133" class="col-xs-12 text-center special_button fw-column">
 
                         <div class="fw-divider-space " style="margin-top: -35px;"></div>
-                        <a href="index.html#" target="_self"
+                        <a href="index.php#" target="_self"
                            class="wide_button theme_button color color_white large_height">
                            Get Started</a>
                      </div>
@@ -1083,7 +1080,7 @@
                      <div id="column-d361fa5" class="col-xs-12 text-center special_button_2 fw-column">
 
                         <div class="fw-divider-space " style="margin-top: -55px;"></div>
-                        <a href="index.html#" target="_self" class="wide_button theme_button color color1 large_height">
+                        <a href="index.php#" target="_self" class="wide_button theme_button color color1 large_height">
                            More</a>
                      </div>
                      <div id="column-79acbf7"
@@ -1113,7 +1110,7 @@
                         <div class="img-wrap"><img src="wp-content/uploads/2018/04/vertical_line.png"
                               alt="//gratisdigital.com/wp-content/uploads/2018/04/vertical_line.png" /></div>
                         <div class="fw-divider-space " style="margin-top: 40px;"></div>
-                        <a href="index.html#" target="_self"
+                        <a href="index.php#" target="_self"
                            class="wide_button theme_button inverse color1 large_height">
                            Let’s Talk!</a>
 
@@ -1207,7 +1204,7 @@
                         <div class="text-block shortcode ">
                            <div role="form" class="wpcf7" id="wpcf7-f8420-p7-o1" lang="en-US" dir="ltr">
                               <div class="screen-reader-response"></div>
-                              <form action="index.html#wpcf7-f8420-p7-o1" method="post" class="wpcf7-form"
+                              <form action="index.php#wpcf7-f8420-p7-o1" method="post" class="wpcf7-form"
                                  novalidate="novalidate">
                                  <div style="display: none;">
                                     <input type="hidden" name="_wpcf7" value="8420" />
@@ -1332,13 +1329,13 @@
                                  <a href="ecommerce.php">E-commerce</a></li>
                               <li id="menu-item-8346"
                                  class="menu-item menu-item-type-post_type menu-item-object-fw-services menu-item-8346">
-                                 <a href="affiliate_marketing.php">Affiliate Marketing</a></li>
+                                 <a href="affiliate-marketing.php">Affiliate Marketing</a></li>
                               <li id="menu-item-8347"
                                  class="menu-item menu-item-type-post_type menu-item-object-fw-services menu-item-8347">
-                                 <a href="affiliate_mgt.php">Affiliate Program Management</a></li>
+                                 <a href="affiliate-management.php">Affiliate Program Management</a></li>
                               <li id="menu-item-8349"
                                  class="menu-item menu-item-type-post_type menu-item-object-fw-services menu-item-8349">
-                                 <a href="lead.php">Lead Generation</a></li>
+                                 <a href="lead-generation.php">Lead Generation</a></li>
                            </ul>
                         </div>
                      </div>

@@ -6,7 +6,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <meta name="format-detection" content="telephone=no">
    <link rel="profile" href="https://gmpg.org/xfn/11">
-   <title>Ecommerce Business in 2019 - Gratis Digital World</title>
+   <title>Gratis Digital World - Digital Marketing Agency</title>
 
    <!-- This site is optimized with the Yoast SEO plugin v11.8 - https://yoast.com/wordpress/plugins/seo/ -->
    <meta name="description"
@@ -254,7 +254,7 @@
                   <div class="row">
                      <div class="col-sm-12 display_table">
                         <div class="header_left_logo display_table_cell">
-                           <a href="index.html" rel="home" class="logo logo_image_and_text">
+                           <a href="index.php" rel="home" class="logo logo_image_and_text">
                               <img src="wp-content/uploads/2019/08/image.png"
                                  alt="&lt;span&gt;Gratis&lt;/span&gt;digital ">
                               <span class="logo_text">
@@ -265,7 +265,7 @@
                               <ul id="menu-main-menu" class="sf-menu nav-menu nav">
                                  <li id="menu-item-126"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-126">
-                                    <a href="index.html">HOME</a></li>
+                                    <a href="index.php">HOME</a></li>
                                  <li id="menu-item-7882"
                                     class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-7882">
                                     <a href="services/index.php">Services</a>
@@ -275,24 +275,24 @@
                                           <a href="ecommerce.php">E-Commerce</a></li>
                                        <li id="menu-item-7953"
                                           class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7953">
-                                          <a href="affiliate_marketing.php">Affiliate Marketing</a></li>
+                                          <a href="affiliate-marketing.php">Affiliate Marketing</a></li>
                                        <li id="menu-item-7956"
                                           class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7956">
-                                          <a href="affiliate_mgt.php">Affiliate Program Management</a></li>
+                                          <a href="affiliate-management.php">Affiliate Program Management</a></li>
                                        <li id="menu-item-7955"
                                           class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7955">
-                                          <a href="lead.php">Lead Generation</a></li>
+                                          <a href="lead-generation.php">Lead Generation</a></li>
                                     </ul>
                                  </li>
                                  <li id="menu-item-8319"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8319"><a
-                                       href="about.php">About</a></li>
+                                       href="about-us.php">About</a></li>
                                  <li id="menu-item-8085"
                                     class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-8085">
                                     <a href="#">Blog</a></li>
                                  <li id="menu-item-8357"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8357"><a
-                                       href="contact.php">Contact Us</a></li>
+                                       href="contact-us.php">Contact Us</a></li>
                               </ul>
                            </nav>
                            <span class="toggle_menu"><span></span></span>
