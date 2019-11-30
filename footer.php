@@ -102,7 +102,7 @@
 </div><!-- eof #box_wrapper -->
 </div><!-- eof #canvas -->
 <!-- Instagram Feed JS -->
-<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<!-- <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script> -->
 <script type="text/javascript">
    var sbiajaxurl = "https://gratisdigital.com/wp-admin/admin-ajax.php";
 </script>

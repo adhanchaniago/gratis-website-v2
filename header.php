@@ -76,7 +76,7 @@
    <link rel='stylesheet' id='sb-font-awesome-css'
       href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
    <link rel='stylesheet' id='rs-plugin-settings-css'
-      href='wp-content/plugins/revslider/public/assets/css/settings.css@ver=5.4.8.1' type='text/css' media='all' />
+      href='wp-content/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
    <style id='rs-plugin-settings-inline-css' type='text/css'>
       #rs-demo-id {}
    </style>
@@ -143,9 +143,9 @@
    <script type='text/javascript'
       src='wp-content/plugins/responsive-vector-maps/js/regions-data/jquery-jvectormap-2.0.3.min.js@ver=2.0.3'></script>
    <script type='text/javascript'
-      src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js@ver=5.4.8.1'></script>
+      src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
    <script type='text/javascript'
-      src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js@ver=5.4.8.1'></script>
+      src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js'></script>
    <script type='text/javascript'>
       /* <![CDATA[ */
       var SnazzyDataForSnazzyMaps = [];

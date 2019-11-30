@@ -42,18 +42,18 @@ include 'header.php'; ?>
                             <div class="service_item vertical-item content-padding big-padding with_background text-center overflow-hidden">
 			<div class="item-media">
 			<img width="600" height="600" src="wp-content/uploads/2018/06/img_11-600x600.jpg" class="attachment-dotdigital-square size-dotdigital-square wp-post-image" alt="" srcset="wp-content/uploads/2018/06/img_11-600x600.jpg 600w, ../wp-content/uploads/2018/06/img_11-600x600-150x150.jpg 150w, ../wp-content/uploads/2018/06/img_11-600x600-300x300.jpg 300w, ../wp-content/uploads/2018/06/img_11-600x600-400x400.jpg 400w, ../wp-content/uploads/2018/06/img_11-600x600-100x100.jpg 100w" sizes="(max-width: 600px) 100vw, 600px" />            <div class="media-links">
-                <a class="abs-link" href="affiliate-marketing"></a>
+                <a class="abs-link" href="affiliate-marketing.php"></a>
             </div>
 		</div>
 		<div class="item-content">
 		<h5 class="entry-title">
-			<a href="affiliate-marketing">
+			<a href="affiliate-marketing.php">
 				Affiliate Marketing			</a>
 		</h5>
 		<div class="excerpt">
 			<p>It is a performance-based marketing model that rewards affiliate partners for driving the desired action. </p>
 		</div>
-        <a href="affiliate-marketing" class="read-more">Read more</a>
+        <a href="affiliate-marketing.php" class="read-more">Read more</a>
 	</div><!-- eof .item-content -->
 </div><!-- eof .teaser -->
                         </div>

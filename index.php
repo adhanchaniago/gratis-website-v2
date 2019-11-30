@@ -25,7 +25,7 @@
    <meta name="twitter:description"
       content="At Gratis Digital World, we are a digital marketing agency who love partnering with smart and determined business to help them achieve online success." />
    <meta name="twitter:title" content="Digital Marketing Agency - Gratis Digital World B2B Services" />
-   <meta name="twitter:image" content="https://gratisdigital.com/wp-content/uploads/2018/09/transparent.png" />
+   <meta name="twitter:image" content="wp-content/uploads/2018/09/transparent.png" />
    <script type='application/ld+json'
       class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://gratisdigital.com/#website","url":"https://gratisdigital.com/","name":"Gratis Digital World","potentialAction":{"@type":"SearchAction","target":"https://gratisdigital.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://gratisdigital.com/#primaryimage","url":"https://gratisdigital.com/wp-content/uploads/2018/09/transparent.png","width":4,"height":4},{"@type":"WebPage","@id":"https://gratisdigital.com/#webpage","url":"https://gratisdigital.com/","inLanguage":"en-GB","name":"Digital Marketing Agency - Gratis Digital World B2B Services","isPartOf":{"@id":"https://gratisdigital.com/#website"},"primaryImageOfPage":{"@id":"https://gratisdigital.com/#primaryimage"},"datePublished":"2017-06-05T14:49:50+00:00","dateModified":"2019-09-30T07:37:54+00:00","description":"At Gratis Digital World, we are a digital marketing agency who love partnering with smart and determined business to help them achieve online success."}]}</script>
    <!-- / Yoast SEO plugin. -->
@@ -75,7 +75,7 @@
    <link rel='stylesheet' id='sb-font-awesome-css'
       href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
    <link rel='stylesheet' id='rs-plugin-settings-css'
-      href='wp-content/plugins/revslider/public/assets/css/settings.css@ver=5.4.8.1' type='text/css' media='all' />
+      href='wp-content/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
    <style id='rs-plugin-settings-inline-css' type='text/css'>
       #rs-demo-id {}
    </style>
@@ -140,9 +140,9 @@
    <script type='text/javascript'
       src='wp-content/plugins/responsive-vector-maps/js/regions-data/jquery-jvectormap-2.0.3.min.js@ver=2.0.3'></script>
    <script type='text/javascript'
-      src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js@ver=5.4.8.1'></script>
+      src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
    <script type='text/javascript'
-      src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js@ver=5.4.8.1'></script>
+      src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js'></script>
    <script type='text/javascript'>
       /* <![CDATA[ */
       var SnazzyDataForSnazzyMaps = [];
@@ -305,9 +305,9 @@
                         href="https://fonts.googleapis.com/css?family=Poppins:700%2C600%2C500%26subset%3Dlatin%7CPermanent+Marker:400%26subset%3Dlatin"
                         rel="stylesheet" property="stylesheet" type="text/css" media="all">
                      <script type="text/javascript"
-                        src="wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js@rev=5.4.8.1"></script>
+                        src="wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js"></script>
                      <script type="text/javascript"
-                        src="wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js@rev=5.4.8.1"></script>
+                        src="wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js"></script>
                      <div id="rev_slider_2_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container"
                         data-source="gallery"
                         style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
@@ -320,7 +320,7 @@
                                  data-slotamount="default,default" data-hideafterloop="0" data-hideslideonmobile="off"
                                  data-easein="default,default" data-easeout="default,default"
                                  data-masterspeed="-120,default"
-                                 data-thumb="https://gratisdigital.com/wp-content/uploads/2018/09/transparent-100x50.png"
+                                 data-thumb="wp-content/uploads/2018/09/transparent-100x50.png"
                                  data-rotate="0,0" data-fstransition="fade" data-fsmasterspeed="1500"
                                  data-fsslotamount="7" data-saveperformance="off" data-title="Slide" data-param1=""
                                  data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
@@ -334,7 +334,7 @@
                                  <!-- BACKGROUND VIDEO LAYER -->
                                  <div class="rs-background-video-layer" data-forcerewind="on" data-volume="mute"
                                     data-videowidth="100%" data-videoheight="100%"
-                                    data-videomp4="https://gratisdigital.com/wp-content/uploads/2018/09/dotdigital-video.mp4"
+                                    data-videomp4="wp-content/uploads/2018/09/dotdigital-video.mp4"
                                     data-videopreload="auto" data-videostartat="00:00"
                                     data-videoloop="loopandnoslidestop" data-forceCover="1" data-aspectratio="16:9"
                                     data-autoplay="true" data-autoplayonlyfirsttime="false"></div>
@@ -485,7 +485,7 @@
                               <li data-index="rs-3" data-transition="boxfade" data-slotamount="default"
                                  data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default"
                                  data-easeout="default" data-masterspeed="default"
-                                 data-thumb="https://gratisdigital.com/wp-content/uploads/2017/06/slide_02-100x50.jpg"
+                                 data-thumb="wp-content/uploads/2017/06/slide_02-100x50.jpg"
                                  data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1=""
                                  data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                                  data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
@@ -601,7 +601,7 @@
                               <li data-index="rs-4" data-transition="slidingoverlaydown" data-slotamount="default"
                                  data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default"
                                  data-easeout="default" data-masterspeed="default"
-                                 data-thumb="https://gratisdigital.com/wp-content/uploads/2017/06/slide_03-100x50.jpg"
+                                 data-thumb="wp-content/uploads/2017/06/slide_03-100x50.jpg"
                                  data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1=""
                                  data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                                  data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
@@ -764,7 +764,7 @@
                                  } else {
                                     revapi2 = tpj("#rev_slider_2_1").show().revolution({
                                        sliderType: "standard",
-                                       jsFileLocation: "//gratisdigital.com/wp-content/plugins/revslider/public/assets/js/",
+                                       jsFileLocation: "wp-content/plugins/revslider/public/assets/js/",
                                        sliderLayout: "auto",
                                        dottedOverlay: "none",
                                        delay: 9000,
@@ -872,7 +872,7 @@
                      <div id="column-5896bdc"
                         class="col-xs-12 text-center col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 fw-column">
                         <div class="img-wrap"><img src="wp-content/uploads/2018/04/vertical_line.png"
-                              alt="//gratisdigital.com/wp-content/uploads/2018/04/vertical_line.png" /></div>
+                              alt="wp-content/uploads/2018/04/vertical_line.png" /></div>
                         <div class="fw-divider-space " style="margin-top: 35px;"></div>
                         <div class="special-heading text-center">
                            <h5 class="section_header margin_0  ">
@@ -896,7 +896,7 @@
 
                         <div class="fw-divider-space " style="margin-top: 30px;"></div>
                         <div class="img-wrap"><img src="wp-content/uploads/2018/04/vertical_line.png"
-                              alt="//gratisdigital.com/wp-content/uploads/2018/04/vertical_line.png" /></div>
+                              alt="wp-content/uploads/2018/04/vertical_line.png" /></div>
                         <div class="fw-divider-space " style="margin-top: 40px;"></div>
                         <a href="index.php#" target="_self"
                            class="wide_button theme_button inverse color1 large_height">
@@ -904,7 +904,7 @@
 
                         <div class="fw-divider-space " style="margin-top: 37px;"></div>
                         <div class="img-wrap"><img src="wp-content/uploads/2018/04/vertical_line.png"
-                              alt="//gratisdigital.com/wp-content/uploads/2018/04/vertical_line.png" /></div>
+                              alt="wp-content/uploads/2018/04/vertical_line.png" /></div>
                      </div>
                      <div id="column-cacc871" class="col-xs-12 to_animate fw-column" data-animation="fadeInUp">
 
@@ -1048,7 +1048,7 @@
                         </div>
                         <div class="fw-divider-space " style="margin-top: 60px;"></div>
                         <div class="img-wrap"><img src="wp-content/uploads/2018/04/vertical_line2.png"
-                              alt="//gratisdigital.com/wp-content/uploads/2018/04/vertical_line2.png" /></div>
+                              alt="wp-content/uploads/2018/04/vertical_line2.png" /></div>
                      </div>
                   </div>
                </div>
@@ -1088,7 +1088,7 @@
 
                         <div class="fw-divider-space " style="margin-top: 25px;"></div>
                         <div class="img-wrap"><img src="wp-content/uploads/2018/04/vertical_line.png"
-                              alt="//gratisdigital.com/wp-content/uploads/2018/04/vertical_line.png" /></div>
+                              alt="wp-content/uploads/2018/04/vertical_line.png" /></div>
                         <div class="fw-divider-space " style="margin-top: 35px;"></div>
                         <div class="special-heading text-center">
                            <h2 class="section_header margin_0 big_title ">
@@ -1108,7 +1108,7 @@
 
                         <div class="fw-divider-space " style="margin-top: 30px;"></div>
                         <div class="img-wrap"><img src="wp-content/uploads/2018/04/vertical_line.png"
-                              alt="//gratisdigital.com/wp-content/uploads/2018/04/vertical_line.png" /></div>
+                              alt="wp-content/uploads/2018/04/vertical_line.png" /></div>
                         <div class="fw-divider-space " style="margin-top: 40px;"></div>
                         <a href="index.php#" target="_self"
                            class="wide_button theme_button inverse color1 large_height">
@@ -1183,7 +1183,7 @@
                      </div>
                      <div id="column-4ae6428" class="col-xs-12 text-center fw-column">
                         <div class="img-wrap"><img src="wp-content/uploads/2018/04/vertical_line3.png"
-                              alt="//gratisdigital.com/wp-content/uploads/2018/04/vertical_line3.png" /></div>
+                              alt="wp-content/uploads/2018/04/vertical_line3.png" /></div>
                      </div>
                   </div>
                </div>
@@ -1197,7 +1197,7 @@
                   <div class="row">
                      <div id="column-fc97e20" class="col-xs-12 col-md-6 fw-column">
                         <div class="img-wrap"><img src="wp-content/uploads/2019/09/mail_img-500x500.jpg"
-                              alt="https://gratisdigital.com/wp-content/uploads/2019/09/mail_img-500x500.jpg"
+                              alt="wp-content/uploads/2019/09/mail_img-500x500.jpg"
                               width="500" height="500" /></div>
                      </div>
                      <div id="form-btm" class="col-xs-12 col-md-6 fw-column">
@@ -1373,7 +1373,6 @@
       </div><!-- eof #box_wrapper -->
    </div><!-- eof #canvas -->
    <!-- Instagram Feed JS -->
-   <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
    <script type="text/javascript">
       var sbiajaxurl = "https://gratisdigital.com/wp-admin/admin-ajax.php";
    </script>
