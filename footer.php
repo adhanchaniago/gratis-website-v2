@@ -55,16 +55,16 @@
                   <ul id="menu-services" class="menu">
                      <li id="menu-item-8348"
                         class="menu-item menu-item-type-post_type menu-item-object-fw-services current-menu-item menu-item-8348">
-                        <a href="<?php echo get_home_url(); ?>/services/ecommerce">E-commerce</a></li>
+                        <a href="<?php echo get_home_url(); ?>/our-services/e-commerce">E-commerce</a></li>
                      <li id="menu-item-8346"
                         class="menu-item menu-item-type-post_type menu-item-object-fw-services menu-item-8346"><a
-                           href="<?php echo get_home_url(); ?>/services/affiliate-marketing">Affiliate Marketing</a></li>
+                           href="<?php echo get_home_url(); ?>/our-services/affiliates-marketing">Affiliate Marketing</a></li>
                      <li id="menu-item-8347"
                         class="menu-item menu-item-type-post_type menu-item-object-fw-services menu-item-8347"><a
-                           href="<?php echo get_home_url(); ?>/services/affiliate-management">Affiliate Program Management</a></li>
+                           href="<?php echo get_home_url(); ?>/our-services/affiliates-management">Affiliate Program Management</a></li>
                      <li id="menu-item-8349"
                         class="menu-item menu-item-type-post_type menu-item-object-fw-services menu-item-8349"><a
-                           href="<?php echo get_home_url(); ?>/services/lead-generation">Lead Generation</a></li>
+                           href="<?php echo get_home_url(); ?>/our-services/leads-generation">Lead Generation</a></li>
                   </ul>
                </div>
             </div>

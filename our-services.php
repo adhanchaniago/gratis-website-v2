@@ -23,18 +23,18 @@ include 'header.php'; ?>
                             <div class="service_item vertical-item content-padding big-padding with_background text-center overflow-hidden">
 			<div class="item-media">
 			<img width="600" height="600" src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_5-600x600.jpg" class="attachment-dotdigital-square size-dotdigital-square wp-post-image" alt="" srcset="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_5-600x600.jpg 600w, ../<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_5-600x600-150x150.jpg 150w, ../<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_5-600x600-300x300.jpg 300w, ../<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_5-600x600-400x400.jpg 400w, ../<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_5-600x600-100x100.jpg 100w" sizes="(max-width: 600px) 100vw, 600px" />            <div class="media-links">
-                <a class="abs-link" href="<?php echo get_home_url(); ?>/services/affiliate-management"></a>
+                <a class="abs-link" href="<?php echo get_home_url(); ?>/our-services/affiliates-management"></a>
             </div>
 		</div>
 		<div class="item-content">
 		<h5 class="entry-title">
-			<a href="<?php echo get_home_url(); ?>/services/affiliate-management">
+			<a href="<?php echo get_home_url(); ?>/our-services/affiliates-management">
 				Affiliate Program Management			</a>
 		</h5>
 		<div class="excerpt">
 			<p>The “outsource” approach towards managing your affiliate program is effectively the best approach</p>
 		</div>
-        <a href="<?php echo get_home_url(); ?>/services/affiliate-management" class="read-more">Read more</a>
+        <a href="<?php echo get_home_url(); ?>/our-services/affiliates-management" class="read-more">Read more</a>
 	</div><!-- eof .item-content -->
 </div><!-- eof .teaser -->
                         </div>
@@ -42,18 +42,18 @@ include 'header.php'; ?>
                             <div class="service_item vertical-item content-padding big-padding with_background text-center overflow-hidden">
 			<div class="item-media">
 			<img width="600" height="600" src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_11-600x600.jpg" class="attachment-dotdigital-square size-dotdigital-square wp-post-image" alt="" srcset="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_11-600x600.jpg 600w, ../<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_11-600x600-150x150.jpg 150w, ../<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_11-600x600-300x300.jpg 300w, ../<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_11-600x600-400x400.jpg 400w, ../<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_11-600x600-100x100.jpg 100w" sizes="(max-width: 600px) 100vw, 600px" />            <div class="media-links">
-                <a class="abs-link" href="<?php echo get_home_url(); ?>/services/affiliate-marketing"></a>
+                <a class="abs-link" href="<?php echo get_home_url(); ?>/our-services/affiliates-marketing"></a>
             </div>
 		</div>
 		<div class="item-content">
 		<h5 class="entry-title">
-			<a href="<?php echo get_home_url(); ?>/services/affiliate-marketing">
+			<a href="<?php echo get_home_url(); ?>/our-services/affiliates-marketing">
 				Affiliate Marketing			</a>
 		</h5>
 		<div class="excerpt">
 			<p>It is a performance-based marketing model that rewards affiliate partners for driving the desired action. </p>
 		</div>
-        <a href="<?php echo get_home_url(); ?>/services/affiliate-marketing" class="read-more">Read more</a>
+        <a href="<?php echo get_home_url(); ?>/our-services/affiliates-marketing" class="read-more">Read more</a>
 	</div><!-- eof .item-content -->
 </div><!-- eof .teaser -->
                         </div>
@@ -61,18 +61,18 @@ include 'header.php'; ?>
                             <div class="service_item vertical-item content-padding big-padding with_background text-center overflow-hidden">
 			<div class="item-media">
 			<img width="600" height="600" src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_8-600x600.jpg" class="attachment-dotdigital-square size-dotdigital-square wp-post-image" alt="" srcset="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_8-600x600.jpg 600w, ../<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_8-600x600-150x150.jpg 150w, ../<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_8-600x600-300x300.jpg 300w, ../<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_8-600x600-400x400.jpg 400w, ../<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_8-600x600-100x100.jpg 100w" sizes="(max-width: 600px) 100vw, 600px" />            <div class="media-links">
-                <a class="abs-link" href="<?php echo get_home_url(); ?>/services/ecommerce"></a>
+                <a class="abs-link" href="<?php echo get_home_url(); ?>/our-services/e-commerce"></a>
             </div>
 		</div>
 		<div class="item-content">
 		<h5 class="entry-title">
-			<a href="<?php echo get_home_url(); ?>/services/ecommerce">
+			<a href="<?php echo get_home_url(); ?>/our-services/e-commerce">
 				E-commerce			</a>
 		</h5>
 		<div class="excerpt">
 			<p>We build your online store using a flexible, modular platform that allows you to expand and grow your website easily as your business grows.</p>
 		</div>
-        <a href="<?php echo get_home_url(); ?>/services/ecommerce" class="read-more">Read more</a>
+        <a href="<?php echo get_home_url(); ?>/our-services/e-commerce" class="read-more">Read more</a>
 	</div><!-- eof .item-content -->
 </div><!-- eof .teaser -->
                         </div>
@@ -80,18 +80,18 @@ include 'header.php'; ?>
                             <div class="service_item vertical-item content-padding big-padding with_background text-center overflow-hidden">
 			<div class="item-media">
 			<img width="600" height="600" src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/02/img_9-600x600.jpg" class="attachment-dotdigital-square size-dotdigital-square wp-post-image" alt="" srcset="<?php bloginfo('template_url'); ?>/assets/uploads/2018/02/img_9-600x600.jpg 600w, ../<?php bloginfo('template_url'); ?>/assets/uploads/2018/02/img_9-600x600-150x150.jpg 150w, ../<?php bloginfo('template_url'); ?>/assets/uploads/2018/02/img_9-600x600-300x300.jpg 300w, ../<?php bloginfo('template_url'); ?>/assets/uploads/2018/02/img_9-600x600-400x400.jpg 400w, ../<?php bloginfo('template_url'); ?>/assets/uploads/2018/02/img_9-600x600-100x100.jpg 100w" sizes="(max-width: 600px) 100vw, 600px" />            <div class="media-links">
-                <a class="abs-link" href="<?php echo get_home_url(); ?>/services/lead-generation"></a>
+                <a class="abs-link" href="<?php echo get_home_url(); ?>/our-services/leads-generation"></a>
             </div>
 		</div>
 		<div class="item-content">
 		<h5 class="entry-title">
-			<a href="<?php echo get_home_url(); ?>/services/lead-generation">
+			<a href="<?php echo get_home_url(); ?>/our-services/leads-generation">
 				Lead Generation			</a>
 		</h5>
 		<div class="excerpt">
 			<p>Lead generation is a powerful tool with many advantages which can help organisations get new clients as well as increase their business&#8217;s online presence.</p>
 		</div>
-        <a href="<?php echo get_home_url(); ?>/services/lead-generation" class="read-more">Read more</a>
+        <a href="<?php echo get_home_url(); ?>/our-services/leads-generation" class="read-more">Read more</a>
 	</div><!-- eof .item-content -->
 </div><!-- eof .teaser -->
                         </div>

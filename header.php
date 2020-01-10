@@ -11,13 +11,13 @@
    <!-- This site is optimized with the Yoast SEO plugin v11.8 - https://yoast.com/wordpress/plugins/seo/ -->
    <meta name="description"
       content="Ecommerce (electronic commerce), is the practice of using promotional tactics to drive traffic to your online store converting that traffic into customers." />
-   <link rel="canonical"  href="services/ecommerce/" />
+   <link rel="canonical"  href="our-services/e-commerce/" />
    <meta property="og:locale" content="en_GB" />
    <meta property="og:type" content="article" />
    <meta property="og:title" content="Ecommerce Business in 2019 - Gratis Digital World" />
    <meta property="og:description"
       content="Ecommerce (electronic commerce), is the practice of using promotional tactics to drive traffic to your online store converting that traffic into customers." />
-   <meta property="og:url" content="services/ecommerce/" />
+   <meta property="og:url" content="our-services/e-commerce/" />
    <meta property="og:site_name" content="Gratis Digital World" />
    <meta property="og:image" content="assets/uploads/2018/06/img_8-600x600.jpg" />
    <meta property="og:image:secure_url" content="assets/uploads/2018/06/img_8-600x600.jpg" />
@@ -28,7 +28,7 @@
       content="Ecommerce (electronic commerce), is the practice of using promotional tactics to drive traffic to your online store converting that traffic into customers." />
    <meta name="twitter:title" content="Ecommerce Business in 2019 - Gratis Digital World" />
    <meta name="twitter:image" content="assets/uploads/2018/06/img_8-600x600.jpg" />
-   <script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://gratisdigital.com/#website","url":"https://gratisdigital.com/","name":"Gratis Digital World","potentialAction":{"@type":"SearchAction","target":"https://gratisdigital.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://gratisdigital.com/services/ecommerce/#primaryimage","url":"https://gratisdigital.com/assets/uploads/2018/06/img_8-600x600.jpg","width":600,"height":600},{"@type":"WebPage","@id":"https://gratisdigital.com/services/ecommerce/#webpage","url":"https://gratisdigital.com/services/ecommerce/","inLanguage":"en-GB","name":"Ecommerce Business in 2019 - Gratis Digital World","isPartOf":{"@id":"https://gratisdigital.com/#website"},"primaryImageOfPage":{"@id":"https://gratisdigital.com/services/ecommerce/#primaryimage"},"datePublished":"2018-06-23T11:49:08+00:00","dateModified":"2019-09-30T08:08:01+00:00","description":"Ecommerce (electronic commerce), is the practice of using promotional tactics to drive traffic to your online store converting that traffic into customers."}]}</script>
+   <script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://gratisdigital.com/#website","url":"https://gratisdigital.com/","name":"Gratis Digital World","potentialAction":{"@type":"SearchAction","target":"https://gratisdigital.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://gratisdigital.com/our-services/e-commerce/#primaryimage","url":"https://gratisdigital.com/assets/uploads/2018/06/img_8-600x600.jpg","width":600,"height":600},{"@type":"WebPage","@id":"https://gratisdigital.com/our-services/e-commerce/#webpage","url":"https://gratisdigital.com/our-services/e-commerce/","inLanguage":"en-GB","name":"Ecommerce Business in 2019 - Gratis Digital World","isPartOf":{"@id":"https://gratisdigital.com/#website"},"primaryImageOfPage":{"@id":"https://gratisdigital.com/our-services/e-commerce/#primaryimage"},"datePublished":"2018-06-23T11:49:08+00:00","dateModified":"2019-09-30T08:08:01+00:00","description":"Ecommerce (electronic commerce), is the practice of using promotional tactics to drive traffic to your online store converting that traffic into customers."}]}</script>
    <!-- / Yoast SEO plugin. -->
 
    <link rel="dns-prefetch" href="https://maxcdn.bootstrapcdn.com/"/>
@@ -222,20 +222,20 @@
                                     <a  href="<?php echo get_home_url(); ?>">HOME</a></li>
                                  <li id="menu-item-7882"
                                     class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-7882">
-                                    <a  href="<?php echo get_home_url(); ?>/services">Services</a>
+                                    <a  href="<?php echo get_home_url(); ?>/our-services">Services</a>
                                     <ul class="sub-menu">
                                        <li id="menu-item-7952"
                                           class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-7952">
-                                          <a  href="<?php echo get_home_url(); ?>/services/ecommerce">E-Commerce</a></li>
+                                          <a  href="<?php echo get_home_url(); ?>/our-services/e-commerce">E-Commerce</a></li>
                                        <li id="menu-item-7953"
                                           class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7953">
-                                          <a  href="<?php echo get_home_url(); ?>/services/affiliate-marketing">Affiliate Marketing</a></li>
+                                          <a  href="<?php echo get_home_url(); ?>/our-services/affiliates-marketing">Affiliate Marketing</a></li>
                                        <li id="menu-item-7956"
                                           class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7956">
-                                          <a  href="<?php echo get_home_url(); ?>/services/affiliate-management">Affiliate Program Management</a></li>
+                                          <a  href="<?php echo get_home_url(); ?>/our-services/affiliates-management">Affiliate Program Management</a></li>
                                        <li id="menu-item-7955"
                                           class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7955">
-                                          <a  href="<?php echo get_home_url(); ?>/services/lead-generation">Lead Generation</a></li>
+                                          <a  href="<?php echo get_home_url(); ?>/our-services/leads-generation">Lead Generation</a></li>
                                     </ul>
                                  </li>
                                  <li id="menu-item-8319"
