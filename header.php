@@ -93,15 +93,15 @@
    <link rel="stylesheet"id="fw-shortcode-button-css" href="<?php bloginfo('template_url'); ?>/assets/plugins/unyson/framework/extensions/shortcodes/shortcodes/button/static/css/styles.css" type="text/css"media="all"/>
    <link rel="stylesheet"id="fw-shortcode-call-to-action-css" href="<?php bloginfo('template_url'); ?>/assets/plugins/unyson/framework/extensions/shortcodes/shortcodes/call-to-action/static/css/styles.css" type="text/css"media="all"/>
    <script>if (document.location.protocol != "https:") { document.location = document.URL.replace(/^http:/i, "https:"); }</script>
-   <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/assets/js/jquery/jquery.js@ver=1.12.4-wp"></script>
-   <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/assets/js/jquery/jquery-migrate.min.js@ver=1.4.1"></script>
+   <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/assets/js/jquery/jquery.js"></script>
+   <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/assets/js/jquery/jquery-migrate.min.js"></script>
    <script type="text/javascript">
       /* <![CDATA[ */
       var gadwpUAEventsData = { "options": { "event_tracking": 0, "event_downloads": "zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*", "event_bouncerate": 0, "aff_tracking": 0, "event_affiliates": "\/out\/", "hash_tracking": 0, "root_domain": "gratisdigital.com", "event_timeout": 100, "event_precision": 0, "event_formsubmit": 1, "ga_pagescrolldepth_tracking": 0, "ga_with_gtag": 0 } };
 /* ]]> */
    </script>
-   <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/plugins/google-analytics-dashboard-for-wp/front/js/tracking-analytics-events.js@ver=5.3.9"></script>
-   <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/plugins/responsive-vector-maps/js/regions-data/jquery-jvectormap-2.0.3.min.js@ver=2.0.3"></script>
+   <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/plugins/google-analytics-dashboard-for-wp/front/js/tracking-analytics-events.js"></script>
+   <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/plugins/responsive-vector-maps/js/regions-data/jquery-jvectormap-2.0.3.min.js"></script>
    <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js"></script>
    <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js"></script>
    <script type="text/javascript">
@@ -110,16 +110,16 @@
       SnazzyDataForSnazzyMaps = { "id": 151, "name": "Ultra Light with Labels", "description": "Light Rust", "url": "https:\/\/snazzymaps.com\/style\/151\/ultra-light-with-labels", "imageUrl": "https:\/\/snazzy-maps-cdn.azureedge.net\/assets\/151-ultra-light-with-labels.png?v=20170626083737", "json": "[{\"featureType\":\"water\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#e9e9e9\"},{\"lightness\":17}]},{\"featureType\":\"landscape\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#f5f5f5\"},{\"lightness\":20}]},{\"featureType\":\"road.highway\",\"elementType\":\"geometry.fill\",\"stylers\":[{\"color\":\"#ffffff\"},{\"lightness\":17}]},{\"featureType\":\"road.highway\",\"elementType\":\"geometry.stroke\",\"stylers\":[{\"color\":\"#ffffff\"},{\"lightness\":29},{\"weight\":0.2}]},{\"featureType\":\"road.arterial\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#ffffff\"},{\"lightness\":18}]},{\"featureType\":\"road.local\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#ffffff\"},{\"lightness\":16}]},{\"featureType\":\"poi\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#f5f5f5\"},{\"lightness\":21}]},{\"featureType\":\"poi.park\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#dedede\"},{\"lightness\":21}]},{\"elementType\":\"labels.text.stroke\",\"stylers\":[{\"visibility\":\"on\"},{\"color\":\"#ffffff\"},{\"lightness\":16}]},{\"elementType\":\"labels.text.fill\",\"stylers\":[{\"saturation\":36},{\"color\":\"#333333\"},{\"lightness\":40}]},{\"elementType\":\"labels.icon\",\"stylers\":[{\"visibility\":\"off\"}]},{\"featureType\":\"transit\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#f2f2f2\"},{\"lightness\":19}]},{\"featureType\":\"administrative\",\"elementType\":\"geometry.fill\",\"stylers\":[{\"color\":\"#fefefe\"},{\"lightness\":20}]},{\"featureType\":\"administrative\",\"elementType\":\"geometry.stroke\",\"stylers\":[{\"color\":\"#fefefe\"},{\"lightness\":17},{\"weight\":1.2}]}]", "views": 620653, "favorites": 1564, "createdBy": { "name": "hawasan", "url": "http:\/\/www.haveasign.pl" }, "createdOn": "2014-11-04T03:01:33.197", "tags": ["greyscale", "light"], "colors": ["gray", "white"] };
 /* ]]> */
    </script>
-   <script type="text/javascript"src="<?php bloginfo('template_url'); ?>/assets/plugins/snazzy-maps/snazzymaps.js@ver=1.1.5"></script>
-   <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js@ver=2.70"></script>
+   <script type="text/javascript"src="<?php bloginfo('template_url'); ?>/assets/plugins/snazzy-maps/snazzymaps.js"></script>
+   <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js"></script>
    <script type="text/javascript">
       /* <![CDATA[ */
       var wc_add_to_cart_params = { "ajax_url": "\/wp-admin\/admin-ajax.php", "wc_ajax_url": "\/?wc-ajax=%%endpoint%%", "i18n_view_cart": "View basket", "cart_url": "https:\/\/gratisdigital.com\/cart\/", "is_cart": "", "cart_redirect_after_add": "no" };
 /* ]]> */
    </script>
-   <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js@ver=3.6.5"></script>
-   <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js@ver=5.6"></script>
-   <script type="text/javascript"src="<?php bloginfo('template_url'); ?>/assets/files/js/vendor/modernizr-custom.js@ver=2.3.0"></script>
+   <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js"></script>
+   <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js"></script>
+   <script type="text/javascript"src="<?php bloginfo('template_url'); ?>/assets/files/js/vendor/modernizr-custom.js"></script>
    <link rel="EditURI" type="application/rsd+xml" title="RSD"  href="xmlrpc.php@rsd" />
    <link rel="wlwmanifest" type="application/wlwmanifest+xml"  href="<?php bloginfo('template_url'); ?>/assets/assets/wlwmanifest.xml" />
    <meta name="generator" content="WordPress 5.3" />
