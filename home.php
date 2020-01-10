@@ -256,7 +256,7 @@
                               <ul id="menu-main-menu" class="sf-menu nav-menu nav">
                                  <li id="menu-item-126"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-126">
-                                    <a href="index">HOME</a></li>
+                                    <a href="/">HOME</a></li>
                                  <li id="menu-item-7882"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7882">
                                     <a href="gratis-services">Services</a>
