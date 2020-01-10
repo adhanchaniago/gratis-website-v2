@@ -20,7 +20,7 @@
 				<!-- .entry-header -->
 				<div class="vertical-item">
 					<div class="item-content entry-content">
-						<div class="fw-page-builder-content"><section  id="top-banner" class="fw-main-row section  ls section_padding_top_50 section_padding_bottom_50 columns_padding_15  " style="background-image:url(wp-content/uploads/2018/06/affilated_banner-2.jpg);">
+						<div class="fw-page-builder-content"><section  id="top-banner" class="fw-main-row section  ls section_padding_top_50 section_padding_bottom_50 columns_padding_15" style="background-image:url(<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/affilated_banner-2.jpg);">
     <h3 class="hidden"> banner_section</h3>
     <div class="top_corner_body"></div>
 	    <div class="container">
@@ -69,7 +69,7 @@
 	    <div class="container-fluid">
         <div class="row">
 			<div  id="column-61d7609" class="col-xs-12 col-md-6 fw-column"  >
-	<div class="img-wrap"><img src="wp-content/uploads/2018/06/affilicate-marketing.jpg" alt="//gratisdigital.com/wp-content/uploads/2018/06/affilicate-marketing.jpg" /></div></div><div  id="column-f88a297" class="col-xs-12 col-md-6 fw-column"  >
+	<div class="img-wrap"><img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/affilicate-marketing.jpg" alt="//gratisdigital.com/<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/affilicate-marketing.jpg" /></div></div><div  id="column-f88a297" class="col-xs-12 col-md-6 fw-column"  >
 	<div class="special-heading text-left">
 	<h3 class="section_header margin_0 heading-wrapper ">
 	<span class=" medium text-capitalize">
@@ -109,55 +109,55 @@
      data-margin="30"
 >
 			<div>
-							<img src="wp-content/uploads/2018/06/img_1.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_1.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_2.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_2.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_3.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_3.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_4.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_4.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_5.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_5.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_6.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_6.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_7.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_7.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_8.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_8.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_9.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_9.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_10.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_10.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_11.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_11.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_12.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_12.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_13.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_13.png"
 				     alt="">
 						</div>
 		</div>
@@ -180,10 +180,10 @@
 <div class="text-block shortcode ">
 	<p>Gratis affiliate marketing team help your company to create a network between you and affiliates.</p><p>We thrive off cutting-edge digital marketing trends in sourcing for potential affiliates. Altogether, building relationships and networks of motivated marketing actions to bring about the desired results your company craves.</p></div>
 </div><div  id="column-d0b69ae" class="col-xs-12 col-md-6 fw-column"  >
-	<div class="img-wrap"><img src="wp-content/uploads/2018/06/affilicate-marketinga.jpg" alt="//gratisdigital.com/wp-content/uploads/2018/06/affilicate-marketinga.jpg" /></div></div>        </div>
+	<div class="img-wrap"><img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/affilicate-marketinga.jpg" alt="//gratisdigital.com/<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/affilicate-marketinga.jpg" /></div></div>        </div>
     </div>
     <div class="bottom_corner_body"></div>
-</section><section  id="footer-call-to-action" class="fw-main-row section  ds section_padding_top_50 section_padding_bottom_50 columns_padding_15 fullwidth-section background_cover  " style="background-image:url(wp-content/uploads/2018/06/bg_adver.jpg);">
+</section><section  id="footer-call-to-action" class="fw-main-row section  ds section_padding_top_50 section_padding_bottom_50 columns_padding_15 fullwidth-section background_cover  " style="background-image:url(<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/bg_adver.jpg);">
     <h3 class="hidden"> foter-call-toaction</h3>
     <div class="top_corner_body"></div>
 	    <div class="container-fluid">
@@ -194,7 +194,7 @@
 		<div class="fw-action-wrap">
 		<div class="fw-action-desc"></div>
 		<div class="fw-action-btn text-center" style="">
-			<a href="index.html@p=6786#header" style="" target="_self"
+			<a href="#header" style="" target="_self"
    class="wide_button theme_button color color1 large_height">
 	Get  A Free Quote</a>
 		</div>

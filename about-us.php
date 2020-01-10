@@ -13,7 +13,7 @@
             </div>
 		</div>
 	</div>
-</section><div class="fw-page-builder-content"><section  id="top-banner" class="fw-main-row section  ls section_padding_top_50 section_padding_bottom_50 columns_padding_15  " style="background-image:url(wp-content/uploads/2018/06/affilated_banner-2.jpg);">
+</section><div class="fw-page-builder-content"><section  id="top-banner" class="fw-main-row section  ls section_padding_top_50 section_padding_bottom_50 columns_padding_15  " style="background-image:url(<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/affilated_banner-2.jpg);">
     <h3 class="hidden"> banner_section</h3>
     <div class="top_corner_body"></div>
 	    <div class="container">

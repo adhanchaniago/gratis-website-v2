@@ -20,7 +20,7 @@
 				<!-- .entry-header -->
 				<div class="vertical-item">
 					<div class="item-content entry-content">
-						<div class="fw-page-builder-content"><section  id="top-banner" class="fw-main-row section  ls section_padding_top_50 section_padding_bottom_50 columns_padding_15  " style="background-image:url(wp-content/uploads/2018/06/affilated_banner-2.jpg);">
+						<div class="fw-page-builder-content"><section  id="top-banner" class="fw-main-row section  ls section_padding_top_50 section_padding_bottom_50 columns_padding_15" style="background-image:url(<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/affilated_banner-2.jpg);">
     <h3 class="hidden"> banner_section</h3>
     <div class="top_corner_body"></div>
 	    <div class="container">
@@ -66,7 +66,7 @@
 	    <div class="container-fluid">
         <div class="row">
 			<div  id="column-61d7609" class="col-xs-12 col-md-6 fw-column"  >
-	<div class="img-wrap"><img src="wp-content/uploads/2018/06/benefit_img-570x500.png" alt="https://gratisdigital.com/wp-content/uploads/2018/06/benefit_img-570x500.png" width="570" height="500" /></div></div><div  id="column-a84e51c" class="col-xs-12 col-md-6 fw-column"  >
+	<div class="img-wrap"><img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/benefit_img-570x500.png" alt="https://gratisdigital.com/assets/uploads/2018/06/benefit_img-570x500.png" width="570" height="500" /></div></div><div  id="column-a84e51c" class="col-xs-12 col-md-6 fw-column"  >
 	<div class="special-heading text-left">
 	<h3 class="section_header margin_0 heading-wrapper ">
 	<span class=" medium text-capitalize">
@@ -106,55 +106,55 @@
      data-margin="30"
 >
 			<div>
-							<img src="wp-content/uploads/2018/06/img_1.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_1.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_2.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_2.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_3.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_3.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_4.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_4.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_5.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_5.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_6.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_6.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_7.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_7.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_8.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_8.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_9.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_9.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_10.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_10.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_11.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_11.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_12.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_12.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_13.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_13.png"
 				     alt="">
 						</div>
 		</div>
@@ -177,10 +177,10 @@
 <div class="text-block shortcode ">
 	<p>At Gratis, we employ our expertise in the field of affiliate management to give your company the desired results.</p><p>Even more, with our experience and proven track record, connections within affiliate networks and technology providers, also our own affiliate database segmented by affiliate types and niches, our robust tools for affiliate discovery, management compliance policing, our representation capabilities at key industry shows and events and direct interest in your affiliate programs, we got you covered.</p></div>
 </div><div  id="column-d0b69ae" class="col-xs-12 col-md-6 fw-column"  >
-	<div class="img-wrap"><img src="wp-content/uploads/2018/06/affilicate-program-1.png" alt="//gratisdigital.com/wp-content/uploads/2018/06/affilicate-program-1.png" /></div></div>        </div>
+	<div class="img-wrap"><img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/affilicate-program-1.png" alt="//gratisdigital.com/assets/uploads/2018/06/affilicate-program-1.png" /></div></div>        </div>
     </div>
     <div class="bottom_corner_body"></div>
-</section><section  id="footer-call-to-action" class="fw-main-row section  ds section_padding_top_50 section_padding_bottom_50 columns_padding_15 fullwidth-section background_cover  " style="background-image:url(wp-content/uploads/2018/06/bg_adver.jpg);">
+</section><section  id="footer-call-to-action" class="fw-main-row section  ds section_padding_top_50 section_padding_bottom_50 columns_padding_15 fullwidth-section background_cover  " style="background-image:url(<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/bg_adver.jpg);">
     <h3 class="hidden"> foter-call-toaction</h3>
     <div class="top_corner_body"></div>
 	    <div class="container-fluid">
@@ -191,7 +191,7 @@
 		<div class="fw-action-wrap">
 		<div class="fw-action-desc"></div>
 		<div class="fw-action-btn">
-			<a href="index.html@p=6788#header" target="_self"
+			<a href="#header" target="_self"
    class="wide_button theme_button color color1 large_height">
 	Get  A Free Quote</a>
 		</div>

@@ -1,5 +1,5 @@
 
-<form action="index.html@p=6786#wpcf7-f8026-p6786-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<form action="#wpcf7-f8026-p6786-o1" method="post" class="wpcf7-form" novalidate="novalidate">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="8026" />
 <input type="hidden" name="_wpcf7_version" value="5.1.4" />

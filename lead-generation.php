@@ -20,7 +20,7 @@
 				<!-- .entry-header -->
 				<div class="vertical-item">
 					<div class="item-content entry-content">
-						<div class="fw-page-builder-content"><section  id="top-banner" class="fw-main-row section  ls section_padding_top_50 section_padding_bottom_50 columns_padding_15  " style="background-image:url(wp-content/uploads/2018/06/affilated_banner-2.jpg);">
+						<div class="fw-page-builder-content"><section  id="top-banner" class="fw-main-row section  ls section_padding_top_50 section_padding_bottom_50 columns_padding_15  " style="background-image:url(<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/affilated_banner-2.jpg);">
     <h3 class="hidden"> banner_section</h3>
     <div class="top_corner_body"></div>
 	    <div class="container">
@@ -44,25 +44,9 @@
 	<div class="text-block shortcode ">
 	<div role="form" class="wpcf7" id="wpcf7-f8026-p5781-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response"></div>
-<form action="index.html@p=5781#wpcf7-f8026-p5781-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-<div style="display: none;">
-<input type="hidden" name="_wpcf7" value="8026" />
-<input type="hidden" name="_wpcf7_version" value="5.1.4" />
-<input type="hidden" name="_wpcf7_locale" value="en_US" />
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f8026-p5781-o1" />
-<input type="hidden" name="_wpcf7_container_post" value="5781" />
-</div>
-<div class="sidebar-form">
-<h2>Get A Free Quote</h2>
-<p><span class="wpcf7-form-control-wrap yname"><input type="text" name="yname" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name" /></span></p>
-<p><span class="wpcf7-form-control-wrap web"><input type="url" name="web" value="Website" size="40" class="wpcf7-form-control wpcf7-text wpcf7-url wpcf7-validates-as-required wpcf7-validates-as-url" aria-required="true" aria-invalid="false" /></span></p>
-<p><span class="wpcf7-form-control-wrap ymail"><input type="email" name="ymail" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email" /></span></p>
-<p><span class="wpcf7-form-control-wrap phone"><input type="text" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone" /></span></p>
-<p class="selectdiv"><span class="wpcf7-form-control-wrap budget"><select name="budget" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="Budget">Budget</option><option value="$2,000 - $5,000/mo">$2,000 - $5,000/mo</option><option value="$5,000 - $10,000/mo">$5,000 - $10,000/mo</option><option value="$10,000 - $15,000/mo">$10,000 - $15,000/mo</option><option value="$15,000 - $25,000/mo">$15,000 - $25,000/mo</option><option value="$25,000+/mo">$25,000+/mo</option></select></span></p>
-<p><span class="wpcf7-form-control-wrap startdate"><select name="startdate" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="Best Start Date">Best Start Date</option><option value="Immediately">Immediately</option><option value="1-4 Weeks">1-4 Weeks</option><option value="1-2 Months">1-2 Months</option><option value="2-4 Months">2-4 Months</option></select></span></p>
-<p><input type="submit" value="SEND" class="wpcf7-form-control wpcf7-submit" /></p>
-</div>
-<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+<?php include 'form.php'; ?>
+
+</div></div>
 </div>        </div>
     </div>
     <div class="bottom_corner_body"></div>
@@ -86,7 +70,7 @@
 	    <div class="container-fluid">
         <div class="row">
 			<div  id="column-61d7609" class="col-xs-12 col-md-6 fw-column"  >
-	<div class="img-wrap"><img src="wp-content/uploads/2018/02/lead-generation.jpg" alt="//gratisdigital.com/wp-content/uploads/2018/02/lead-generation.jpg" /></div></div><div  id="column-f88a297" class="col-xs-12 col-md-6 fw-column"  >
+	<div class="img-wrap"><img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/02/lead-generation.jpg" alt="//gratisdigital.com/assets/uploads/2018/02/lead-generation.jpg" /></div></div><div  id="column-f88a297" class="col-xs-12 col-md-6 fw-column"  >
 	<div class="special-heading text-left">
 	<h3 class="section_header margin_0 heading-wrapper ">
 	<span class=" medium text-capitalize">
@@ -126,55 +110,55 @@
      data-margin="30"
 >
 			<div>
-							<img src="wp-content/uploads/2018/06/img_1.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_1.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_2.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_2.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_3.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_3.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_4.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_4.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_5.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_5.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_6.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_6.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_7.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_7.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_8.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_8.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_9.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_9.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_10.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_10.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_11.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_11.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_12.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_12.png"
 				     alt="">
 						</div>
 				<div>
-							<img src="wp-content/uploads/2018/06/img_13.png"
+							<img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/img_13.png"
 				     alt="">
 						</div>
 		</div>
@@ -197,17 +181,17 @@
 <div class="text-block shortcode ">
 	<p>The Gratis team can significantly increase your conversion rates (users to clients) by establishing useful marketing strategies. Whereby focused on generating and cultivating your leads as well as ensuring that you get quality clients at a very good price.</p><p>We prioritise direct engagement with potential leads and also deploy the effectiveness of outbound and inbound marketing techniques to find, nurture and finally convert your leads into paying customers.</p></div>
 </div><div  id="column-d0b69ae" class="col-xs-12 col-md-6 fw-column"  >
-	<div class="img-wrap"><img src="wp-content/uploads/2018/02/business-groth.jpg" alt="//gratisdigital.com/wp-content/uploads/2018/02/business-groth.jpg" /></div></div>        </div>
+	<div class="img-wrap"><img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/02/business-groth.jpg" alt="//gratisdigital.com/assets/uploads/2018/02/business-groth.jpg" /></div></div>        </div>
     </div>
     <div class="bottom_corner_body"></div>
-</section><section  id="footer-call-to-action" class="fw-main-row section  ds section_padding_top_50 section_padding_bottom_50 columns_padding_15 fullwidth-section background_cover  " style="background-image:url(wp-content/uploads/2018/06/bg_adver.jpg);">
+</section><section  id="footer-call-to-action" class="fw-main-row section  ds section_padding_top_50 section_padding_bottom_50 columns_padding_15 fullwidth-section background_cover  " style="background-image:url(<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/bg_adver.jpg);">
     <h3 class="hidden"> foter-call-toaction</h3>
     <div class="top_corner_body"></div>
 	    <div class="container-fluid">
         <div class="row">
 			<div  id="column-00dc7ae" class="col-xs-12 fw-column"  >
 	<div class="fw-theme-call-to-action">
-			<h6 class="section_header">Hire GRATISDIGITAL to improve your Facebook engagement.</h6>
+			<h6 class="section_header">Hire GRATISDIGITAL to improve your lead generation.</h6>
 		<div class="fw-action-wrap">
 		<div class="fw-action-desc"></div>
 		<div class="fw-action-btn">
