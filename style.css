@@ -755,3 +755,10 @@ form.wpcf7-form .footer-form .wpcf7-form-control {
 .width-full {
    width: 100%;
 }
+
+@media(min-width:992px) {
+   ._row {
+      display: flex;
+      align-items: center
+   }
+}
