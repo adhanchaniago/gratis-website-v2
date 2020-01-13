@@ -25209,3 +25209,11 @@ a.color-icon.border-icon:hover {
    margin: 20px 0;
    clear: both;
 }
+
+
+@media(min-width:992px) {
+   ._row {
+      display: flex;
+      align-items: center
+   }
+}
