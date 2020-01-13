@@ -65,10 +65,10 @@
    <link rel="stylesheet"id="sb_instagram_styles-css" href="<?php bloginfo('template_url'); ?>/assets/plugins/instagram-feed/css/sb-instagram.min.css" type="text/css"media="all"/>
    <link rel="stylesheet"id="sb-font-awesome-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"type="text/css"media="all"/>
    <link rel="stylesheet"id="rs-plugin-settings-css" href="<?php bloginfo('template_url'); ?>/assets/plugins/revslider/public/assets/css/settings.css"type="text/css"media="all"/>
-   <style id="rs-plugin-settings-inline-css"type="text/css">
+   <style id="rs-plugin-settings-inline-css" type="text/css">
       #rs-demo-id {}
    </style>
-   <style id="woocommerce-inline-inline-css"type="text/css">
+   <style id="woocommerce-inline-inline-css" type="text/css">
       .woocommerce form .form-row .required {
          visibility: visible;
       }
@@ -83,7 +83,7 @@
    <link rel="stylesheet"id="dotdigital-icon-fonts-css" href="<?php bloginfo('template_url'); ?>/assets/files/css/fonts.css" type="text/css"media="all"/>
    <link rel="stylesheet"id="dotdigital-font-css" href="https://fonts.googleapis.com/css?family=Poppins%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CRaleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800&amp;subset=latin-ext&amp;ver=2.3.0" type="text/css"media="all"/>
    <!-- <link rel="stylesheet"id="specicons-css" href="/assets/files/css/specicons.css?ver=2.3.0'
-      type="text/css"media="all"/> -->
+   type="text/css"media="all"/> -->
    <link rel="stylesheet"id="dotdigital-woo-css" href="<?php bloginfo('template_url'); ?>/assets/files/css/woo.css" type="text/css"media="all"/>
    <link rel="stylesheet"id="dotdigital-booked-css" href="<?php bloginfo('template_url'); ?>/assets/files/css/booked.css" type="text/css"media="all"/>
    <link rel="stylesheet"id="dotdigital-bootstrap-css" href="<?php bloginfo('template_url'); ?>/assets/files/css/bootstrap.min.css" type="text/css"media="all"/>
@@ -92,6 +92,14 @@
    <link rel="stylesheet"id="fw-shortcode-button-css" href="<?php bloginfo('template_url'); ?>/assets/plugins/unyson/framework/extensions/shortcodes/shortcodes/button/static/css/styles.css" type="text/css"media="all"/>
    <link rel="stylesheet"id="fw-shortcode-call-to-action-css" href="<?php bloginfo('template_url'); ?>/assets/plugins/unyson/framework/extensions/shortcodes/shortcodes/call-to-action/static/css/styles.css" type="text/css"media="all"/>
    <link rel="stylesheet"id="dotdigital-css-style-css" href="<?php bloginfo('template_url'); ?>/style.css" type="text/css" media="all"/>
+   <style type="text/css">
+     @media(min-width:992px){
+            .container-fluid>.roww {
+            display: flex !important;
+            align-items: center !important
+         }
+     }
+   </style>
    <script>if (document.location.protocol != "https:") { document.location = document.URL.replace(/^http:/i, "https:"); }</script>
    <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/assets/js/jquery/jquery.js"></script>
    <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/assets/js/jquery/jquery-migrate.min.js"></script>

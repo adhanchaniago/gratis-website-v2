@@ -2807,11 +2807,6 @@ header [class*="col-"] {
       padding-left: 50px;
       padding-right: 50px;
    }
-
-   .container-fluid>.roww {
-      display: flex;
-      align-items: center
-   }
 }
 
 /* extra large column paddings */
