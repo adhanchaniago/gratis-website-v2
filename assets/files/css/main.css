@@ -2807,6 +2807,11 @@ header [class*="col-"] {
       padding-left: 50px;
       padding-right: 50px;
    }
+
+   .container-fluid>.roww {
+      display: flex;
+      align-items: center
+   }
 }
 
 /* extra large column paddings */
@@ -25208,12 +25213,4 @@ a.color-icon.border-icon:hover {
 .single-post .isotope_container {
    margin: 20px 0;
    clear: both;
-}
-
-
-@media(min-width:992px) {
-   .roww {
-      display: flex;
-      align-items: center
-   }
 }
