@@ -757,7 +757,7 @@ form.wpcf7-form .footer-form .wpcf7-form-control {
 }
 
 @media(min-width:992px) {
-   ._row {
+   .roww {
       display: flex;
       align-items: center
    }

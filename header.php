@@ -86,12 +86,12 @@
       type="text/css"media="all"/> -->
    <link rel="stylesheet"id="dotdigital-woo-css" href="<?php bloginfo('template_url'); ?>/assets/files/css/woo.css" type="text/css"media="all"/>
    <link rel="stylesheet"id="dotdigital-booked-css" href="<?php bloginfo('template_url'); ?>/assets/files/css/booked.css" type="text/css"media="all"/>
-   <link rel="stylesheet"id="dotdigital-css-style-css" href="<?php bloginfo('template_url'); ?>/style.css" type="text/css" media="all"/>
    <link rel="stylesheet"id="dotdigital-bootstrap-css" href="<?php bloginfo('template_url'); ?>/assets/files/css/bootstrap.min.css" type="text/css"media="all"/>
    <link rel="stylesheet"id="dotdigital-animations-css" href="<?php bloginfo('template_url'); ?>/assets/files/css/animations.css" type="text/css"media="all"/>
    <link rel="stylesheet"id="dotdigital-main-css" href="<?php bloginfo('template_url'); ?>/assets/files/css/main.css" type="text/css"media="all"/>
    <link rel="stylesheet"id="fw-shortcode-button-css" href="<?php bloginfo('template_url'); ?>/assets/plugins/unyson/framework/extensions/shortcodes/shortcodes/button/static/css/styles.css" type="text/css"media="all"/>
    <link rel="stylesheet"id="fw-shortcode-call-to-action-css" href="<?php bloginfo('template_url'); ?>/assets/plugins/unyson/framework/extensions/shortcodes/shortcodes/call-to-action/static/css/styles.css" type="text/css"media="all"/>
+   <link rel="stylesheet"id="dotdigital-css-style-css" href="<?php bloginfo('template_url'); ?>/style.css" type="text/css" media="all"/>
    <script>if (document.location.protocol != "https:") { document.location = document.URL.replace(/^http:/i, "https:"); }</script>
    <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/assets/js/jquery/jquery.js"></script>
    <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/assets/js/jquery/jquery-migrate.min.js"></script>
