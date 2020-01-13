@@ -25212,7 +25212,7 @@ a.color-icon.border-icon:hover {
 
 
 @media(min-width:992px) {
-   ._row {
+   .roww {
       display: flex;
       align-items: center
    }

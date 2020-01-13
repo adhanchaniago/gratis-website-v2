@@ -56,7 +56,7 @@
     <h3 class="hidden"> video-section</h3>
     <div class="top_corner_body"></div>
 	    <div class="container-fluid">
-        <div class="row _row">
+        <div class="row roww">
 			<div  id="column-db153a8" class="col-xs-12 col-md-6 text-left brief-section fw-column"  >
 	<div class="text-block shortcode ">
 	<!-- <p style="text-align: left;">Therefore, affiliates' earn commission by promoting other people's (or company's) products. If you find an interesting product or one that simply catches your attention, you can go further in earning a profit from it. Also, by practically promoting that product to other people on any platform linked to your affiliate website.</p> -->
@@ -77,7 +77,7 @@
     <h3 class="hidden"> Benefit-Section</h3>
     <div class="top_corner_body"></div>
 	    <div class="container-fluid">
-        <div class="row _row">
+        <div class="row roww">
 			<div  id="column-61d7609" class="col-xs-12 col-md-6 fw-column text-center">
 	<div class="img-wrap"><img src="<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/affilicate-marketing.jpg" alt="//gratisdigital.com/<?php bloginfo('template_url'); ?>/assets/uploads/2018/06/affilicate-marketing.jpg" /></div></div><div  id="column-f88a297" class="col-xs-12 col-md-6 fw-column"  >
 	<div class="special-heading text-left">
@@ -187,7 +187,7 @@
     <h3 class="hidden">5de1527fa0f33</h3>
     <div class="top_corner_body"></div>
 	    <div class="container-fluid">
-        <div class="row _row">
+        <div class="row roww">
 			<div  id="column-d7264ae" class="col-xs-12 col-md-6 fw-column"  >
 	<div class="special-heading text-left">
 	<h3 class="section_header margin_0 heading-wrapper ">
